@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf15d69c-3b1d-4037-84fe-fcdd34dfa70f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Landing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-Black.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-BlackItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-BlackItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-BoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-ExtraBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-ExtraBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-ExtraBoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-ExtraBoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-Heavy.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-Heavy.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-Heavy.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-HeavyItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-HeavyItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-HeavyItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-LightItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-LightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-MediumItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-MediumItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-RegularItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-RegularItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-RegularItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-SemiBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-SemiBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-SemiBoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-SemiBoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-Thin.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-ThinItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-ThinItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-UltraLight.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-UltraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-UltraLight.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-UltraLightItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-UltraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Gilroy-UltraLightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsblack.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsblack.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsblack.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsblackitalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsblackitalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsblackitalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsbold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsbold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsbold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsbolditalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsbolditalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsbolditalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsextrabold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsextrabold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsextrabold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsextrabolditalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsextrabolditalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsextrabolditalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsextralight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsextralight.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsextralight.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsextralightitalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsextralightitalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsextralightitalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsitalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsitalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsitalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinslight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinslight.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinslight.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinslightitalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinslightitalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinslightitalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsmediumitalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsmediumitalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsmediumitalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinspoppins-boldsemibold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinspoppins-boldsemibold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinspoppins-boldsemibold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinspoppins-semiboldmedium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinspoppins-semiboldmedium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinspoppins-semiboldmedium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsregular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsregular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsregular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinssemibolditalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinssemibolditalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinssemibolditalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsthin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsthin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsthin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsthinitalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsthinitalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Poppinsthinitalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Rectangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Vector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about-img — копия.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about-time 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cake.bacgraun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mazzo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mazzo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mazzo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mazzo4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shampain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/specialty's-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lLNY25IkNDY31axYvNBoF2oUd5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf15d69c-3b1d-4037-84fe-fcdd34dfa70f" name="Default Changelist" comment="" />
+      <created>1607372455841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607372455841</updated>
+      <workItem from="1607372456981" duration="29306000" />
+      <workItem from="1607773456666" duration="29903000" />
+      <workItem from="1608047065671" duration="410000" />
+      <workItem from="1608550136478" duration="1892000" />
+      <workItem from="1608742862414" duration="656000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
